@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishika Aggarwal
-![image](https://github.com/rishika-on-git/rishika-on-git/assets/135099825/434aea1b-05d9-4fe1-b432-cad59d100318)
+[![An image of @rishikaaa_ishh_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishikaaa_ishh_)](https://holopin.io/@rishikaaa_ishh_)
 
 <!---
 rishika-on-git/rishika-on-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
